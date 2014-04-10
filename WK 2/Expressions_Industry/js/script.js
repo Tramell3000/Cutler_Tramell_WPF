@@ -12,3 +12,12 @@ var width = 11;
 var height = 8;
 var area = width * height
 console.log(area);
+
+
+//Number of color modes in photoshop
+
+var colorMode = [1, 1, 1, 1];
+
+var total = colorMode[0] + colorMode[1] + colorMode[2] + colorMode[3];
+
+console.log(total);

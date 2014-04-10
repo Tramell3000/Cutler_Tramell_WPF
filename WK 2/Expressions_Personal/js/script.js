@@ -1,1 +1,6 @@
-alert("This is in the js file");
+
+
+var bodyWash = prompt ("What kind of bodywash do you use?");
+
+console.log(bodyWash);
+

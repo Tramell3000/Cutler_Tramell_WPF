@@ -20,4 +20,4 @@ var colorMode = [1, 1, 1, 1];
 
 var total = colorMode[0] + colorMode[1] + colorMode[2] + colorMode[3];
 
-console.log(total);
+console.log(total); 

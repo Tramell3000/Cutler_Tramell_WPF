@@ -6,3 +6,7 @@ console.log(carModel);
 var carYear = 1965;
 prompt("What year is the year of your car?");
  console.log(carYear);
+
+ var carColor = "Red"
+ prompt("What color is your car?");
+ console.log(carColor);
